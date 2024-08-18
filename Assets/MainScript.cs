@@ -62,6 +62,7 @@ public class MainScript : MonoBehaviour
             GameInitialization();
             gameObject.GetComponent<PlayerSystem>().PlayersInitialization();
         }
+        //test
     }
 
     void GameInitialization()
